@@ -16,3 +16,7 @@ dotnet aspnet-codegenerator razorpage -m Movie -dc RazorPagesMovie.Data.RazorPag
 -outDir  The relative output folder path to create the 
 views
 --referenceScriptLibraries  Adds _ValidationScriptPartial to Edit and Create Pages. 
+
+You can type -h to get help with commands 
+dotnet aspnet-codegenerator razorpage -h
+
