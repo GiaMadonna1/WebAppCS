@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace ResCreate.Models;
+namespace RazorPagesMovie.Models;
 
 public class Movie
 {

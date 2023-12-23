@@ -275,3 +275,4 @@ c:\Users\Gia\Desktop\coding\CSharp\WebbApp\WebAppCS\ResCreate\bin\Debug\net8.0\r
 c:\Users\Gia\Desktop\coding\CSharp\WebbApp\WebAppCS\ResCreate\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 c:\Users\Gia\Desktop\coding\CSharp\WebbApp\WebAppCS\ResCreate\obj\Debug\net8.0\ResCreate.csproj.AssemblyReference.cache
 c:\Users\Gia\Desktop\coding\CSharp\WebbApp\WebAppCS\ResCreate\obj\Debug\net8.0\ResCreate.csproj.CopyComplete
+C:\Users\Gia\Desktop\coding\CSharp\WebbApp\WebAppCS\ResCreate\obj\Debug\net8.0\ResCreate.sourcelink.json
