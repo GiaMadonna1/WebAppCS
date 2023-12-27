@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj": {}
+    "c:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj": {
+    "c:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj",
+        "projectUniqueName": "c:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj",
         "projectName": "ResCreate",
-        "projectPath": "C:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj",
+        "projectPath": "c:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj",
         "packagesPath": "C:\\Users\\Gia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\obj\\",
+        "outputPath": "c:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gia\\AppData\\Roaming\\NuGet\\NuGet.Config"
