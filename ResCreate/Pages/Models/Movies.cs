@@ -14,6 +14,7 @@ public class Movie
 
     [Column(TypeName = "decimal(18, 2)")]
     public decimal Price {get;set;}
+    public string Rating {get;set;} = string.Empty;
 }
 
 /* An Id field to provide a primary key for the db.
