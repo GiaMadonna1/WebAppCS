@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dMhpa6WaeyxLEcgyiC6k/T8UwRjNfWU2o984t6hDtV9cIkqjMeukYhI8Wmcc8DK/KIuUgn2mLnRxvJHB1QiLWA==",
+  "dgSpecHash": "AOIPpbPkw/VSNmuYSPVDdHB3/6ea4SmXUOID3MDQaALG0vA/hS2ZrDm80n4pHxkWRBRlCOnEVHi/A284D4DnJQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj",
+  "projectFilePath": "C:\\Users\\Gia\\Desktop\\coding\\CSharp\\WebbApp\\WebAppCS\\ResCreate\\ResCreate.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Gia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
