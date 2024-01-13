@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ResCreate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43bc2a73a808588649ee20f8248ad3a797f21a55")]
 [assembly: System.Reflection.AssemblyProductAttribute("ResCreate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ResCreate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
